@@ -8,3 +8,6 @@ dist/
 !.env.example
 .idea/
 .vscode/
+source-media/
+.claude/
+.impeccable/
